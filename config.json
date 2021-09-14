@@ -1,0 +1,11 @@
+{
+    "prefix" : ".",
+    "bot_about" : {
+        "name" : "Playerly",
+        "version" : "3.1.5"
+    },
+    "mongooseLink" : "Mongoose Login Key",
+    "pastepApiKey" : "Pastep API Key",
+    "steamApiKey" : "Steam API",
+    "discordToken" : "Your Discord Token"
+}

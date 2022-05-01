@@ -1,1 +1,2 @@
-If any question tell me in discord = !                       꿈 RezaPC#1687
+Discord bot managment or anythings u can edit it. Its public now
+If any question tell me in discord = RezaPC#9237
